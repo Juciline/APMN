@@ -1,0 +1,15 @@
+b 0
+u ana@mail.com 111
+i 100 0 0 r Salario
+b 10
+exit
+b 10
+u bob@mail.com 222
+b 10
+i 30 5 0 d Livro
+b 10
+exit
+u ana@mail.com 999
+u ana@mail.com 111
+b 10
+v

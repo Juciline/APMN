@@ -1,0 +1,36 @@
+i 100 0 30 r Mesada
+i 50 15 0 d Livros
+i 120 40 0 d PC
+m 50
+b 30
+b 40
+b 60
+v
+m 30
+b 30
+b 40
+b 60
+v
+i 20 35 0 d Mochila
+b 30
+b 40
+b 60
+v
+i 5 35 0 d Estojo
+i 5 35 0 d Caneta
+b 60
+v
+l 35
+r 35 0
+l 35
+r 35 1
+l 35
+r 35 0
+l 35
+b 60
+v
+b 35
+w 35 20
+b 999
+w 35 3200
+w 35 10000

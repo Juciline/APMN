@@ -1,0 +1,27 @@
+150
+30
+130
+Invalido
+150
+30
+130
+Valido
+150
+10
+110
+Invalido
+100
+Invalido
+0 20 d Mochila
+1 5 d Estojo
+2 5 d Caneta
+0 5 d Estojo
+1 5 d Caneta
+0 5 d Estojo
+130
+Valido
+150
+60
+3230
+990
+Incomportavel
