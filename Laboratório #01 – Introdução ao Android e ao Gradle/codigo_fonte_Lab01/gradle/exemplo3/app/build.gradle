@@ -1,0 +1,10 @@
+apply plugin: 'application'
+
+dependencies {
+    implementation project(':servico')
+    implementation project(':modelo')
+}
+
+application {
+    mainClass = 'ao.co.isptec.aplm.app.Main'
+}
